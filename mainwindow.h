@@ -3,7 +3,6 @@
 
 #include <QMainWindow>
 #include "epuckcontroller.h"
-#include "kheperacontroller.h"
 
 class MainWindow : public QMainWindow
 {
